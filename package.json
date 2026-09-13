@@ -1,0 +1,9 @@
+{
+  "name": "maison-wovi-payments",
+  "version": "1.0.0",
+  "description": "Fonctions serverless de paiement pour le site Maison Wovi (CinetPay + Stripe) — format Vercel",
+  "type": "module",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
